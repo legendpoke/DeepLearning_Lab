@@ -1,0 +1,13 @@
+numpy 
+pandas
+matplotlib 
+graphviz 
+tqdm
+jupyterlab
+ipykernel
+torch 
+torchvision 
+torchaudio
+notebook
+tensorflow
+scikit-learn
